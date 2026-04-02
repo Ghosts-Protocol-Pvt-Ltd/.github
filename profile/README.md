@@ -74,12 +74,26 @@ A small team of engineers who build, own, and operate production systems.
 
 ## Open Source
 
-<a href="https://github.com/Ghosts-Protocol-Pvt-Ltd/DragonKeep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghosts-Protocol-Pvt-Ltd&repo=DragonKeep&theme=dark&bg_color=0d1117&border_color=00ff88&icon_color=00ff88&title_color=00ff88&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Ghosts-Protocol-Pvt-Ltd/DragonForge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghosts-Protocol-Pvt-Ltd&repo=DragonForge&theme=dark&bg_color=0d1117&border_color=00ff88&icon_color=00ff88&title_color=00ff88&text_color=c9d1d9" />
-</a>
+<table>
+<tr>
+<td width="50%">
+
+### 🦎 [DragonKeep](https://github.com/Ghosts-Protocol-Pvt-Ltd/DragonKeep)
+Rust-powered Linux security auditor & performance tuner. Five engines for hardening, monitoring, tuning, and protecting your system.
+
+`Rust` `Tokio` `ratatui` `Linux Security`
+
+</td>
+<td width="50%">
+
+### 🔥 [DragonForge](https://github.com/Ghosts-Protocol-Pvt-Ltd/DragonForge)
+GPU passthrough toolkit — laptop-safe QEMU/KVM GPU passthrough with libvirt hooks, UEFI, Secure Boot, TPM 2.0, and VirtIO.
+
+`Shell` `QEMU/KVM` `libvirt` `GPU Passthrough`
+
+</td>
+</tr>
+</table>
 
 ## Principles
 
