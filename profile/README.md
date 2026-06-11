@@ -1,115 +1,98 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ghosts-Protocol-Pvt-Ltd/.github/main/profile/banner.png" alt="Ghost Protocol" width="600" />
+<img src="https://raw.githubusercontent.com/Ghosts-Protocol-Pvt-Ltd/.github/main/profile/banner.png" alt="Ghost Protocol — the ghost in your stack" width="830" />
+
+<br/><br/>
+
+`[ GHOST PROTOCOL ] · PVT LTD · COLOMBO, SRI LANKA`
+
+**Security, systems & AI — built, owned, and operated by the engineers who designed them.**
 
 <br/>
 
-### Software That Works Under Pressure
-
-**Security-focused development · Custom systems · Infrastructure built to last**
-
-**From Colombo to the world**
-
----
-
-[![Website](https://img.shields.io/badge/ghosts.lk-000000?style=for-the-badge&logo=ghost&logoColor=00ff88)](https://ghosts.lk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/company/ghost-protocol-pvt-ltd)
+[![ghosts.lk](https://img.shields.io/badge/ghosts.lk-050505?style=for-the-badge&logo=ghost&logoColor=ced2d8)](https://ghosts.lk)
+[![Ghost OS](https://img.shields.io/badge/GHOST__OS-050505?style=for-the-badge&logo=gnometerminal&logoColor=34d399)](https://os.ghosts.lk)
+[![wyrm-mcp](https://img.shields.io/npm/v/wyrm-mcp?style=for-the-badge&label=WYRM&labelColor=050505&color=1a1a1a)](https://www.npmjs.com/package/wyrm-mcp)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=ced2d8)](https://www.linkedin.com/company/ghost-protocol-pvt-ltd)
 
 </div>
 
-## Who We Are
+<br/>
 
-We're a **software studio** — not an agency, not a body shop.  
-A small team of engineers who build, own, and operate production systems.
+## `▸ SYS.INIT — WHO WE ARE`
 
-**Engineers, not middlemen.** Every project is built directly by the people who designed it.
+A **software studio**, not an agency. A small operator team in Colombo that designs, builds, and *runs* production systems — security platforms, AI memory infrastructure, and edge-native web — for ourselves first, then for clients.
 
 ```
- No Outsourcing · No Subcontracting · Direct Engineering
+NO OUTSOURCING · NO SUBCONTRACTING · THE PEOPLE WHO DESIGNED IT BUILT IT
 ```
 
-## What We Build
+## `▸ WHAT WE OPERATE`
+
+| | Surface | What it is |
+|---|---|---|
+| `●` | **[ghosts.lk](https://ghosts.lk)** | The studio. Start with a **free security scan** of your site — no signup, no strings. |
+| `●` | **[Ghost OS](https://os.ghosts.lk)** | Our web desktop — the operator console the whole platform runs through. |
+| `●` | **[Wyrm](https://www.npmjs.com/package/wyrm-mcp)** | Persistent memory for AI assistants — MCP-native, local-first, learns from failures. `npm i -g wyrm-mcp` |
+| `●` | **PhantomDragon** | Our AI-powered penetration-testing platform — the engine behind the scan. |
+
+## `▸ OPEN SOURCE`
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ Security & Infrastructure
-- **DragonKeep** — Rust-powered Linux security auditor
-- **DragonForge** — GPU passthrough toolkit for QEMU/KVM
-- **PhantomDragon** — AI-powered penetration testing (75+ scanners)
-- **ghost-license** — Self-hosted ED25519 license server
-
-</td>
-<td width="50%">
-
-### ⚡ Developer Tools
-- **Wyrm** — Persistent AI memory system (MCP + SQLite)
-- **Foundry** — Enterprise website scaffolding framework
-- **DragonScale** — Full restaurant ordering system + admin
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 Client Solutions
-- Enterprise web platforms
-- Hotel booking systems
-- E-commerce & ordering portals
-- Luxury brand experiences
-
-</td>
-<td width="50%">
-
-### 🧰 Tech Stack
-`TypeScript` `Rust` `Python` `PHP`  
-`Next.js` `React` `Tailwind` `Tokio`  
-`SQLite` `PostgreSQL` `Prisma`  
-`Puppeteer` `Playwright` `Docker`
-
-</td>
-</tr>
-</table>
-
-## Open Source
-
-<table>
-<tr>
-<td width="50%">
-
-### 🦎 [DragonKeep](https://github.com/Ghosts-Protocol-Pvt-Ltd/DragonKeep)
-Rust-powered Linux security auditor & performance tuner. Five engines for hardening, monitoring, tuning, and protecting your system.
+### [DragonKeep](https://github.com/Ghosts-Protocol-Pvt-Ltd/DragonKeep)
+Rust-powered Linux security auditor & performance tuner — five engines for hardening, monitoring, tuning, and protecting your system.
 
 `Rust` `Tokio` `ratatui` `Linux Security`
 
 </td>
 <td width="50%">
 
-### 🔥 [DragonForge](https://github.com/Ghosts-Protocol-Pvt-Ltd/DragonForge)
-GPU passthrough toolkit — laptop-safe QEMU/KVM GPU passthrough with libvirt hooks, UEFI, Secure Boot, TPM 2.0, and VirtIO.
+### [DragonForge](https://github.com/Ghosts-Protocol-Pvt-Ltd/DragonForge)
+Laptop-safe QEMU/KVM GPU passthrough — libvirt hooks, UEFI, Secure Boot, TPM 2.0, and VirtIO.
 
-`Shell` `QEMU/KVM` `libvirt` `GPU Passthrough`
+`Shell` `QEMU/KVM` `libvirt` `VFIO`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [wyrm-mcp on npm](https://www.npmjs.com/package/wyrm-mcp)
+The Wyrm memory engine — AGPL-3.0, 130+ tools, hybrid FTS + vector recall, with an open memory protocol (**WMP**).
+
+`TypeScript` `MCP` `SQLite` `Ed25519`
+
+</td>
+<td width="50%">
+
+### `▸ STACK`
+`TypeScript` `Rust` `Python` `PHP`
+`Next.js` `Hono` `Cloudflare Workers · D1 · KV · R2`
+`SQLite` `PostgreSQL` `Prisma` `Tokio`
 
 </td>
 </tr>
 </table>
 
-## Principles
+## `▸ PRINCIPLES`
 
 ```
- Code > Talk         →  We ship working systems, not slide decks
- Security First      →  Every line written with adversaries in mind
- Performance         →  Fast, efficient, minimal — no bloatware
- Low Profile         →  We let our work speak
+CODE > TALK        →  working systems, not slide decks
+SECURITY FIRST     →  every line written with adversaries in mind
+AI AS WORKFORCE    →  a fleet of agents under operator command — a small team that ships like a large one
+PROVEN, NOT HOPED  →  nothing ships until it survives our own adversarial gauntlet
+LOW PROFILE        →  the work speaks
 ```
+
+<br/>
 
 <div align="center">
 
----
+`SYS.READY ●` &nbsp; [ghosts.lk](https://ghosts.lk) · [protocol@ghosts.lk](mailto:protocol@ghosts.lk)
 
-**Precision · Privacy · Performance**
-
-<sub>Colombo, Sri Lanka · <a href="https://ghosts.lk">ghosts.lk</a></sub>
+<sub>© 2026 Ghost Protocol (Pvt) Ltd · Colombo, Sri Lanka · <em>The ghost in your stack.</em></sub>
 
 </div>
