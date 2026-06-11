@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ghosts-Protocol-Pvt-Ltd/.github/main/profile/banner.png" alt="Ghost Protocol — the ghost in your stack" width="830" />
+<img src="https://raw.githubusercontent.com/Ghosts-Protocol-Pvt-Ltd/.github/main/profile/banner.png?v=2" alt="Ghost Protocol — the ghost in your stack" width="830" />
 
 <br/><br/>
 
